@@ -1,4 +1,4 @@
-<header>
+Assessment Methodologies: Information Gathering<header>
 
 <!--
   <<< Author notes: Course header >>>
